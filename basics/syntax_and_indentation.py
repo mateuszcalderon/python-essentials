@@ -5,6 +5,7 @@
 
 """
 I am a Docstring Comment/Multiline Comment and I am NOT executed!
+I can be used to provide a documentation for your code.
 """
 
 # Defining the variables:
@@ -16,9 +17,9 @@ print(programming_language + " was created in " + str(year) + ".")  # I am an In
 
 # Using a 'if' loop to show the importance of Indentation:
 if 10 > 5:
-    print("10 is greater than 5.")  # Right use of indentation.
+    print("10 is greater than 5.")  # Right use of Indentation.
 
 """
 if 10 > 5:
-print("10 is greater than 5.")  # Wrong use of indentation. This will cause an IndentationError."
+print("10 is greater than 5.")  # Wrong use of Indentation. This will cause an IndentationError."
 """

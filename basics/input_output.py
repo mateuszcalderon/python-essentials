@@ -11,4 +11,4 @@ n2 = int(input("Enter the 2nd number: "))
 
 # The 'result' variable holds their sum and prints it.
 result = n1 + n2
-print("\nResult is = " + str(result))
+print("Result is = " + str(result))

@@ -4,7 +4,7 @@
 # Variables in Python:
 global_variable = "I am a Global Variable."  # Global Variables can be accessed from anywhere in the code.
 
-def my_function():
+def scope_example():
     local_variable = "I am a Local Variable."  # Local Variables can only be accessed within the function they are defined in.
     # To modify a Local Variable to Global Variable inside a function, you need to declare it as 'global'.
     global turn_variable_global
@@ -16,7 +16,7 @@ def my_function():
 print(local_variable)  # This will cause a NameError because 'local_variable' is NOT defined in this scope."
 """
 
-my_function()
+scope_example()
 print(turn_variable_global)  # This will work because 'turn_variable_global' is now a Global Variable.
 
 # Data Types in Python:
@@ -43,4 +43,4 @@ t[0] = 10  # This will cause a TypeError because Tuples are immutable.
 
 # Change the 'boolean' variable to another Data Type to check different Data Types:
 # e.g., print("\nType: " + str(type(t)))
-print("\nType: " + str(type(boolean)))
+print("Type: " + str(type(boolean)))

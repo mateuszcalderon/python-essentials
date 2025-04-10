@@ -3,7 +3,19 @@
 </p>
 
 <div align="center">
-  <h1>Python Essentials</h2>
+  <h1>Python Essentials</h1>
 </div>
 
-Python Essentials is as a straightforward tutorial designed to serve as a practical tool for learning Python. It aims to assist learners in mastering the basics, whether they're new to programming or revisiting foundational concepts. With clear explanations and practical examples, it is becoming an effective guide for building or refining Python knowledge.
+Python Essentials is a beginner-friendly tutorial designed to make learning Python as smooth and straightforward as possible. It aims to assist programmers in mastering the basics, whether they're new to programming or revisiting foundational concepts. With easy explanations, I'm creating a tutorial that I hope will help learners confidently build their Python skills.
+
+## Learning Path:
+This Python tutorial is structured to help learners build a solid foundation and gradually progress to more advanced concepts. Below, is my recommended order to follow:
+1. **Basics:**
+    - ` syntax_and_indentation.py `
+    - ` variables_and_data_types.py `
+    - ` input_output.py `
+2. **Data Structures:**
+    - ` strings.py `
+    - ` lists.py `
+    - ` tuples.py `
+    - ` dictionaries.py `

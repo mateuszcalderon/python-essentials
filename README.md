@@ -19,3 +19,28 @@ This Python tutorial is structured to help learners build a solid foundation and
     - ` lists.py `
     - ` tuples.py `
     - ` dictionaries.py `
+3. **Control Flow:**
+    1. **Conditional Statements:**
+        - ` if.py `
+        - ` if_elif_else.py `
+<details>
+  <summary>
+    Truth Table in Python:
+  </summary>
+  
+  #### 'AND' Truth Table:
+  |   A   |   B   | A AND B |
+  | ----- | ----- | ------- |
+  | True  | True  |  True   |
+  | True  | False |  False  |
+  | False | True  |  False  |
+  | False | False |  False  |
+
+  #### 'OR' Truth Table:
+  |   A   |   B   | A OR B |
+  | ----- | ----- | ------ |
+  | True  | True  |  True  |
+  | True  | False |  True  |
+  | False | True  |  True  |
+  | False | False |  False |
+</details>

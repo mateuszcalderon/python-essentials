@@ -31,16 +31,13 @@ vehicle_color = vehicle["Color"]      # Accessing the value using directly the k
 vehicle_color = vehicle.get("Color")  # Using the 'get()' method to access the value of the key "Color".
 print(vehicle_color)
 
-# Two different ways to remove a key-value pair from a dictionary:
+# Here are two ways to remove a key-value pair from a dictionary:
 vehicle.pop("Transmission")  # Removing the key "Transmission" from the dictionary.
 del vehicle["Year"]          # Deleting the key "Year" from the dictionary.
 
 print("Printing the 'vehicle' dictionary: " + str(vehicle))
 print("Printing the 'vehicles' dictionary: " + str(vehicles))
 print("Printing the 'cars' dictionary: " + str(cars))
-
-
-
 
 # The 'len()' function gives the dictionaries' length.
 print("'vehicle' dictionary length: " + str(len(vehicle)))

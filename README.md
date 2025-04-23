@@ -23,6 +23,18 @@ This Python tutorial is structured to help learners build a solid foundation and
     1. **Conditional Statements:**
         - ` if.py `
         - ` if_elif_else.py `
+    2. **Loops:**
+        - ` for.py `
+        - ` while.py `
+    3. **Loop Control Statements:**
+        - ` break_continue_pass.py `
+4. **Functions:**
+    1. **Defining Functions:**
+        - ` functions_p1.py `
+        - ` functions_p2.py `
+        - ` functions_p3.py `
+    - ` default_and_keyword_arguments.py `
+
 <details>
   <summary>
     Truth Table in Python:

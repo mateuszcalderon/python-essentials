@@ -28,13 +28,6 @@ This Python tutorial is structured to help learners build a solid foundation and
         - ` while.py `
     3. **Loop Control Statements:**
         - ` break_continue_pass.py `
-4. **Functions:**
-    1. **Defining Functions:**
-        - ` functions_p1.py `
-        - ` functions_p2.py `
-        - ` functions_p3.py `
-    - ` default_and_keyword_arguments.py `
-
 <details>
   <summary>
     Truth Table in Python:
@@ -56,3 +49,16 @@ This Python tutorial is structured to help learners build a solid foundation and
   | False | True  |  True  |
   | False | False |  False |
 </details>
+
+4. **Functions:**
+    - **Defining Functions:**
+        - ` functions_p1.py `
+        - ` functions_p2.py `
+        - ` functions_p3.py `
+    - ` default_and_keyword_arguments.py `
+    - ` lambda_functions.py `
+    - ` args_and_kwargs.py `
+
+## Development Environment:
+  - **Programming Language:** Python 3.13.1
+  - **Editor:** Visual Studio Code 1.99.3
